@@ -11,6 +11,12 @@
       "email": "Danny.Bollaert@UGent.be"
     }
   ],
+  "require-dev": {
+    "sensio/generator-bundle": "^3.0",
+    "symfony/phpunit-bridge": "^3.2",
+    "phpunit/phpunit": "5.*",
+    "systemhaus/guzzle-http-mock": "^2.0"
+  },
   "require": {
     "php": ">=7.0",
     "symfony/symfony": "3.3.*",
